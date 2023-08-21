@@ -1,0 +1,2 @@
+-- DSFFSDFSDFSDF
+SHOW CREATE TABLE first_table;
