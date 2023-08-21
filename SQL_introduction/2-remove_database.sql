@@ -1,0 +1,2 @@
+-- HIIIIIIIIIII
+DROP SCHEMA hbtn_0c_0;
